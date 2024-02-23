@@ -8,3 +8,5 @@
 1°: Engenheiros de software precisaam se preocupar com a passagem do tempo e eventuais mudanças do projetos. Numa organização, precisam estar atentos sobre escalamento e eficiência. Essas preocupações fazem com que eles tenham que tomar decições complexas.
 
 2°: Programar é uma ação continua para engenheiros de sofrware, é desenvolver; modificar; manter.
+
+Trade-offs: decisões que se sacrifica algo em prol de outra, considerando as vantagens e denvantagens de ambas. Alguns exemplos seriam: Consumo presente vs consumo futuro; Inflação vs desemprego; Consumo vs lazer. 
